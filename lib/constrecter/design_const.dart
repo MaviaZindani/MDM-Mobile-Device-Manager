@@ -10,7 +10,7 @@ class DesignConstants {
   static const Color kBgColor = Color(0xffEAE4FF);
   static const Color kWhiteColor = Color(0xFFFFFFFF);
   static const Color kErrorColor = Colors.red;
-  static const Color kDisabledColor = Color(0xFF868686);
+  // static const Color kDisabledColor = Color(0xFF868686);
   static const Color kRatingStarColor = Color(0xffFBC02D);
 
   // border
