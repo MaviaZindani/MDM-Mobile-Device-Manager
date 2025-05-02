@@ -10,7 +10,7 @@ class DesignConstants {
   static const Color kBgColor = Color(0xffEAE4FF);
   static const Color kWhiteColor = Color(0xFFFFFFFF);
   static const Color kErrorColor = Colors.red;
-  // static const Color kDisabledColor = Color(0xFF868686);
+  static const Color kDisabledColor = Color(0xFF868686);
   static const Color kRatingStarColor = Color(0xffFBC02D);
 
   // border
@@ -31,5 +31,11 @@ class DesignConstants {
 
   //Button
   static const Color kCancelRideButton = Color(0xffFA2222);
+
+  // Testing Colors
+  static const Color kTestColor1 = Color(0xffF722220);
+  static const Color kTestColor2 = Color(0xffF922222);
+  static const Color kTestColor3 = Color(0xffF022227);
+  static const Color kTestColor4 = Color(0xffF901280);
 
 }
